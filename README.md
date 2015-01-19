@@ -1,4 +1,4 @@
-# matching-artists
+# Matching Artists
 
 Problem: 
 	The attached text file "Artist_lists_small.txt" contains the favorite musical artists of 1000 users from LastFM. Each line is a list of up to 50 artists, formatted as follows:
@@ -9,7 +9,7 @@ Problem:
 
 	Write a program that, using this file as input, produces an output file containing a list of pairs of artists which appear TOGETHER in at least fifty different lists. For example, in the above sample, Radiohead and Morrissey appear together twice, but every other pair appears only once.
 
-Run Instructions
+Run Instructions  
 1. Ensure "Artists_lists_small.txt" is saved in the project directory.
 
 2. For command line: 
