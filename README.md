@@ -11,13 +11,13 @@ Write a program that, using this file as input, produces an output file containi
 
 Run Instructions  
 Ensure "Artists_lists_small.txt" is saved in the project directory.  
-$ javac MatchingArtists.java
+$ javac MatchingArtists.java  
 $ java MatchingArtists
 
 Then check project directory for output file, "ArtistPairs.txt"
 
 For Eclipse:
-Create new project directory and create new main class "MatchingArtists.java"
-Add "Artist_lists_small.txt" into command line arguments, under Run Configurations.
-Eclipse will enforce saving non MacRoman text files as UTF-8 encoding.
-Save and run file. Open finder to check output file "ArtistPairs.txt"
+Create new project directory and create new main class "MatchingArtists.java"  
+Add "Artist_lists_small.txt" into command line arguments, under Run Configurations.  
+Eclipse will enforce saving non MacRoman text files as UTF-8 encoding.  
+Save and run file. Open finder to check output file "ArtistPairs.txt"  
